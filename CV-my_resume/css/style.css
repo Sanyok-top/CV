@@ -19,28 +19,21 @@ body{
     max-width: 1200px;
     margin: 0 auto;
     box-shadow: 5px 9px 20px 0px rgba(0,0,0,0.15);
-	 
-	 
 }
 .side-panel-left{
     background:#1e2939;
     width: 370px;
     height: 1500px;
-	
     
 }
 .photo{
     width: 370px;
     margin-top: 40px;
-
 }
 .about-me-container{
     display: flex;
     flex-direction: column;
     padding:40px 90px;
-	 @media (max-width:768+px){
-		   padding: 10px;
-	 }
     
 }
 
